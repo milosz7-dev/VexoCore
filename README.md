@@ -4,8 +4,6 @@
 VexoCore to osobisty ekosystem AI stworzony przez **milosz7-dev**. Integruje lokalne modele LLM z zaawansowaną wizją oraz automatyzacją środowiska pracy.
 
 ## 🚀 Kluczowe Funkcje
-* **Vexo-Vision**: Rozpoznawanie obrazów i analiza screenów z gier.
-* **Voice Engine**: Pełna integracja mowy (STT/TTS).
 * **Auto-Ollama**: Automatyczna instalacja i konfiguracja silnika AI.
 * **Google OAuth**: Bezpieczne logowanie i zarządzanie kontami.
 
