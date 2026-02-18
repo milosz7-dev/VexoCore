@@ -1,74 +1,61 @@
-To profesjonalny plik README.md dla Twojego repozytorium. Przygotowałem go w dwóch językach, z czytelnymi sekcjami, ikonami i instrukcjami, które podkreślają funkcję automatycznej instalacji Ollamy.
+⚡ VexoCore Ultra V6 (Installer Version)
 
-Skopiuj poniższą treść do pliku README.md w swoim folderze vexocore:
-⚡ VexoCore Ultra V6
+    Official Release by milosz7-dev
 
-    Advanced Local AI OS & Intelligence System > Developed by milosz7-dev
+🇵🇱 Instrukcja Instalacji (Polish)
 
-🇵🇱 Opis po polsku (Polish Description)
+VexoCore Ultra V6 to inteligentny system AI, który teraz możesz zainstalować jak każdą inną aplikację systemową (np. Discord czy Steam). Nie potrzebujesz znać się na Pythonie ani programowaniu.
+✨ Dlaczego wersja .EXE?
 
-VexoCore Ultra V6 to zaawansowany system operacyjny AI działający lokalnie na Twoim komputerze. Został zaprojektowany z myślą o streamerach i programistach, oferując pełną integrację z silnikiem Ollama bez skomplikowanej konfiguracji.
-✨ Główne Cechy:
+    Wszystko w jednym: Nie musisz instalować Pythona ani bibliotek.
 
-    Auto-Installer: System automatycznie wykrywa brak silnika Ollama, pobiera go i instaluje za Ciebie.
+    Auto-AI: Instalator sam sprawdzi, czy masz silnik Ollama. Jeśli nie – pobierze go i skonfiguruje za Ciebie.
 
-    Vexo-Vision & Voice: Gotowość do analizy obrazu i przetwarzania mowy.
+    Integracja z Systemem: Automatyczny skrót na pulpicie i w menu Start.
 
-    Bezpieczne Logowanie: Integracja z Google OAuth dla personalizacji kont.
+    Pełna Moc: Dostęp do modeli AI (Dolphin-Llama3) bezpośrednio z Twojego komputera.
 
-    Dolphin Engine: Domyślnie skonfigurowany pod model dolphin-llama3 (bez cenzury).
+🚀 Jak zainstalować?
 
-    Cyber UI: Nowoczesny interfejs graficzny w stylu Glassmorphism (Tailwind CSS).
+    Przejdź do sekcji Releases.
 
-🚀 Jak zacząć?
+    Pobierz plik VexoCore_Ultra_v1.0.0_Setup.exe.
 
-    Pobierz repozytorium.
+    Uruchom instalator i postępuj zgodnie z instrukcjami (wybierz folder i kliknij "Zainstaluj").
 
-    Zainstaluj wymagania: pip install fastapi uvicorn ollama pydantic
+    Po zakończeniu, uruchom VexoCore Ultra z pulpitu.
 
-    Uruchom aplikację: python vexocore.py
+    Zaloguj się przez Google i zacznij korzystać z lokalnego AI!
 
-    Otwórz w przeglądarce: http://127.0.0.1:8000
+🇺🇸 Installation Guide (English)
 
-🇺🇸 English Description
+VexoCore Ultra V6 is a sophisticated AI Intelligence System, now available as a standard Windows Installer. No Python knowledge or environment setup required.
+✨ Key Features of the Installer:
 
-VexoCore Ultra V6 is a sophisticated, locally-hosted AI operating system. Built for streamers and developers, it bridges the gap between local LLMs and daily workflows (like OBS, YouTube, and gaming) with zero-config automation.
-✨ Key Features:
+    Standalone: All dependencies are bundled within the executable.
 
-    Zero-Config AI: Automatically installs Ollama and manages background services.
+    Auto-Ollama: If the AI engine is missing, VexoCore will download and install it for you automatically.
 
-    Identity Management: Google OAuth integration with easy account switching.
+    Desktop Ready: Creates a desktop shortcut and a Start Menu entry for quick access.
 
-    Dolphin Intelligence: Optimized for high-performance, uncensored models like dolphin-llama3.
+    Local & Private: Your AI runs locally on your hardware.
 
-    Streamer Aware: Hardcoded context for OBS, CS2, and YouTube workflows.
+🚀 How to Install?
 
-    Ultra UI: High-speed, responsive chat interface with Markdown support.
+    Go to the Releases section.
 
-🚀 Quick Start
+    Download the VexoCore_Ultra_v1.0.0_Setup.exe file.
 
-    Clone the repo.
+    Run the installer (follow the simple "Next, Next, Finish" steps).
 
-    Install dependencies:
+    Launch VexoCore Ultra using the desktop icon.
 
-    pip install fastapi uvicorn ollama pydantic
+    Log in via Google and experience the power of local AI!
 
-    Fire it up:
+🛠️ System Requirements / Wymagania
 
-    python vexocore.py
+    OS: Windows 10/11 (64-bit)
 
-    Access the Core:
+    Internet: Required only for initial setup (Ollama download) and Google Login.
 
-    Navigate to http://127.0.0.1:8000 in your browser.
-
-🛠️ Requirements / Wymagania
-
-    OS: Windows 10/11
-
-    Python: 3.10+
-
-    Hardware: Minimum 8GB RAM (16GB recommended for AI models)
-
-👤 Author
-
-milosz7-dev GitHub Profile
+    Author: milosz7-dev
