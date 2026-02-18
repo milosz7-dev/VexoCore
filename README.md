@@ -1,7 +1,7 @@
 # ⚡ VexoCore Ultra V6
 > **Next-Gen AI OS for Streamers and Developers**
 
-VexoCore to osobisty ekosystem AI stworzony przez **milosz7-dev**. Integruje lokalne modele LLM z zaawansowaną wizją, analizą YouTube oraz automatyzacją środowiska pracy (OBS, CS2).
+VexoCore to osobisty ekosystem AI stworzony przez **milosz7-dev**. Integruje lokalne modele LLM z zaawansowaną wizją oraz automatyzacją środowiska pracy.
 
 ## 🚀 Kluczowe Funkcje
 * **Vexo-Vision**: Rozpoznawanie obrazów i analiza screenów z gier.
